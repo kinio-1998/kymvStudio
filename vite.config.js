@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://kymvstudio.github.io/'
+  base: 'https://kinio-1998.github.io/kymvstudio'
 })
 
